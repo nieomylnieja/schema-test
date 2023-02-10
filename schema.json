@@ -3,7 +3,7 @@
   "$id": "https://raw.githubusercontent.com/nieomylnieja/schema-test/main/schema.json",
   "properties": {
     "address": {
-      "$ref": "/address#kind"
+      "$ref": "/nieomylnieja/schema-test/main/address.schema.json#kind"
     }
   }
 }
